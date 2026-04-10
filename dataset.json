@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the New Orleans-Metairie (Metro), Louisiana metro, including New Orleans and Metairie. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in New Orleans-Metairie (Metro), Louisiana, US",
+  "export_job_id": "781210b0-30f1-4681-8822-b64fe115a216",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 127309,
+  "location_name": "New Orleans-Metairie, LA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-new-orleans-metairie-metro-louisiana-us-sample-127309",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/127309/beamstation_127309_restaurants-us-neworleansmetairiela_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 316,
+  "sample_sha256": "ef6b2beb0ef70f74d594031b2c9bd1578f619bbbd06f09232c7d8ac4a64a941a",
+  "sample_size_bytes": 1126588,
+  "total_records": 3164,
+  "updated_at": "2026-04-09T16:03:03.899695+00:00"
+}
