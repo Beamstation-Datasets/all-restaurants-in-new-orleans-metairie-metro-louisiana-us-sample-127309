@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8701f7b2-9214-45e7-b34e-5e323993be38",
+  "export_job_id": "0a6c136c-5b2e-4714-a37a-247080f8bb36",
   "id_short": 127309,
-  "published_at": "2026-04-19T19:26:23Z",
+  "published_at": "2026-04-23T19:30:07Z",
   "repo_name": "all-restaurants-in-new-orleans-metairie-metro-louisiana-us-sample-127309",
   "sample_asset_name": "beamstation_127309_restaurants-us-neworleansmetairiela_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/127309/beamstation_127309_restaurants-us-neworleansmetairiela_SAMPLE_DIST.csv",
-  "sample_records": 304,
-  "sample_sha256": "c988b6415e432ac307baf0830a8b9d2be6d2ec8b12b4b1bea07f47568dd25156",
-  "sample_size_bytes": 1111531,
-  "total_records": 3047
+  "sample_records": 257,
+  "sample_sha256": "2f0c4422cedce4e7970ab7afeecaa47c9004a98da437641723a8a7dde7279b8d",
+  "sample_size_bytes": 914109,
+  "total_records": 2577
 }
